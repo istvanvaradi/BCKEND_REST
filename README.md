@@ -1,6 +1,6 @@
 #RESTFUL API
 
-CRUD dunctionality
+CRUD functionality
 just representational, tested with POSTMAN
 
 USES Node js and Express
