@@ -1,0 +1,36 @@
+/* 1 */
+{
+    "_id" : ObjectId("619ea91f6f872cde6eea51db"),
+    "city" : "Krakow",
+    "impression" : "Nice city, lot of people speaks English here, and many big companies are operating from here"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("619ea9976f872cde6eea51f1"),
+    "city" : "Warsaw",
+    "impression" : "Big, windy but having a really big city vibe. I did not quite like it cause people are not speaking English there"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("619eaa0a6f872cde6eea5204"),
+    "city" : "Budates",
+    "impression" : "Amazing city but as native Hungarian I totally left my appriciation behind."
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("61b55cd24613a76bb5926503"),
+    "city" : "Katowice",
+    "impression" : "not again ",
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("61b55f3d60873b446704d126"),
+    "city" : "Eindhoven",
+    "impression" : "best place I have ever visited so far",
+    "__v" : 0
+}
